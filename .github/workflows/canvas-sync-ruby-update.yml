@@ -8,7 +8,7 @@ on:
 
 jobs:
   sync:
-    name: Sync with Canvasss
+    name: Sync with Canvassss
 
     runs-on: ubuntu-latest
 
